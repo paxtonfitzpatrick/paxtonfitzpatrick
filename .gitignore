@@ -1,0 +1,6 @@
+# Mac Finder config files
+*.DS_Store
+
+# PyCharm project config dir
+.idea
+
