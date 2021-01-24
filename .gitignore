@@ -4,3 +4,5 @@
 # PyCharm project config dir
 .idea
 
+# Python bytecode from local Docker runs
+*__pycache__
