@@ -2,7 +2,10 @@
 *.DS_Store
 
 # PyCharm project config dir
-.idea
+*.idea
+
+# VSCode project config dir
+*.vscode
 
 # Python bytecode from local Docker runs
 *__pycache__
